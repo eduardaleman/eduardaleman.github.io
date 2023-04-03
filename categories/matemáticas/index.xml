@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>matemáticas on Espacio Digital de Eduardo Alemán</title>
+    <link>/categories/matem%C3%A1ticas/</link>
+    <description>Recent content in matemáticas on Espacio Digital de Eduardo Alemán</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 28 Jun 2022 23:02:42 +0000</lastBuildDate><atom:link href="/categories/matem%C3%A1ticas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La identidad de Euler</title>
+      <link>/entrada/2022/la-identidad-de-euler/</link>
+      <pubDate>Tue, 28 Jun 2022 23:02:42 +0000</pubDate>
+      
+      <guid>/entrada/2022/la-identidad-de-euler/</guid>
+      <description>La fórmula más notable en matemáticas En una de sus famosas conferencias de Física, Richard Feynman le dedica una clase completa a &amp;ldquo;una de las fórmulas más notables, casi asombrosas, de todas las matemáticas.&amp;rdquo; Al comenzar, Feynman explica que &amp;ldquo;desde el punto de vista del físico, podríamos presentar esta fórmula en dos minutos más o menos, y terminar con ella. Pero la ciencia es tanto para el disfrute intelectual como para la utilidad práctica, así que en lugar de dedicar unos minutos a esta asombrosa joya, rodearemos la joya con su engaste adecuado en el gran diseño de esa rama de las matemáticas que se llama álgebra elemental.</description>
+    </item>
+    
+  </channel>
+</rss>
