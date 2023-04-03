@@ -2,17 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/entrada/</loc>
-    <lastmod>2023-04-03T02:53:07+00:00</lastmod>
-  </url><url>
-    <loc>/entrada/2022/testing/</loc>
-    <lastmod>2023-04-03T02:53:07+00:00</lastmod>
-  </url><url>
     <loc>/categories/</loc>
-    <lastmod>2022-08-28T03:59:58+00:00</lastmod>
+    <lastmod>2023-04-03T05:45:30+00:00</lastmod>
   </url><url>
     <loc>/categories/destinos/</loc>
     <lastmod>2022-07-27T09:27:22+00:00</lastmod>
+  </url><url>
+    <loc>/entrada/</loc>
+    <lastmod>2023-04-03T05:45:30+00:00</lastmod>
   </url><url>
     <loc>/entrada/2022/paris/</loc>
     <lastmod>2022-07-27T09:27:22+00:00</lastmod>
@@ -49,6 +46,15 @@
   </url><url>
     <loc>/entrada/2022/mexico/</loc>
     <lastmod>2022-07-02T16:07:34+00:00</lastmod>
+  </url><url>
+    <loc>/categories/anales/</loc>
+    <lastmod>2023-04-03T05:45:30+00:00</lastmod>
+  </url><url>
+    <loc>/entrada/2022/libro-uno/</loc>
+    <lastmod>2023-04-03T05:45:30+00:00</lastmod>
+  </url><url>
+    <loc>/categories/libro-i/</loc>
+    <lastmod>2023-04-03T05:45:30+00:00</lastmod>
   </url><url>
     <loc>/entrada/2022/problemas-de-la-globalizacion/</loc>
     <lastmod>2022-07-02T11:03:01+00:00</lastmod>

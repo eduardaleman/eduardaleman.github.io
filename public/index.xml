@@ -8,15 +8,6 @@
     <language>es-es</language>
     <lastBuildDate>Mon, 27 Jun 2022 12:45:16 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Testing</title>
-      <link>/entrada/2022/testing/</link>
-      <pubDate>Mon, 03 Apr 2023 02:52:30 +0000</pubDate>
-      
-      <guid>/entrada/2022/testing/</guid>
-      <description>Hello Testing&amp;hellip;</description>
-    </item>
-    
-    <item>
       <title>París</title>
       <link>/entrada/2022/paris/</link>
       <pubDate>Sat, 02 Jul 2022 08:11:45 +0000</pubDate>
@@ -86,6 +77,17 @@
       
       <guid>/entrada/2022/mexico/</guid>
       <description> </description>
+    </item>
+    
+    <item>
+      <title>Libro I de los Anales de Tácito</title>
+      <link>/entrada/2022/libro-uno/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/entrada/2022/libro-uno/</guid>
+      <description>La copia más antigua del primer libro de los Anales manuscrito por un monje benedictino alrededor de los años 1000-1100 e. c. ha sido digitalizado y está actualmente disponible en el repositorio digital de la Biblioteca Medicea Laurenziana.
+De la siguiente traducción al castellano: Tácito, Cayo Cornelio. Anales. Libros I-VI. España, BIBLIOTECA CLÁSICA GREDOS Nº 19 - Introducción, traducción y notas de José L. Moralejo, 1979.
+La edición en latín tal y como aparece en Publius Cornelius Tacitus Ab excessu divi Augusti Annales Saeculo I, que parece ser completamente basada en Tacitus, Cornelius.</description>
     </item>
     
     <item>
