@@ -1,0 +1,47 @@
+baseURL: /
+languageCode: es-es
+title: Espacio Digital de Eduardo Alemán
+theme: hugo-xmin
+pygmentsCodeFences: true
+relativeURLS: true
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+footnotereturnlinkcontents: "↩"
+permalinks:
+  note: "/pag/:day/:month/:year/:slug/"
+  post: "/pub/:day/:month/:year/:slug/"
+menu:
+  main:
+    - name: Portada
+      url: ""
+      weight: 1
+    - name: Entradas
+      url: "entrada/"
+      weight: 2
+    - name: Notas Técnicas
+      url: "notas/"
+      weight: 3
+params:
+  description: "Eduardo Alemán"
+  footer: "El autor de este sitio es &copy; Eduardo Alemán {Year}"
+
+markup:
+  highlight:
+    codeFences: false
+  goldmark:
+    renderer:
+      unsafe: true
+
+privacy:
+  disqus:
+    disable: true
+  googleAnalytics:
+    disable: true
+  instagram:
+    disable: true
+  twitter:
+    disable: true
+  vimeo:
+    disable: true
+  youtube:
+    disable: true
+
